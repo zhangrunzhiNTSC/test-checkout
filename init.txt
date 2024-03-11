@@ -1,3 +1,4 @@
 checkout
 error master
 checkout error branchtest
+test pull
